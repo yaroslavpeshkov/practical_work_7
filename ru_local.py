@@ -1,0 +1,6 @@
+INPUT_NUMBER = 'Введите число: '
+WRONG_NUMBER = 'Это число не является полным квадратом.'
+INPUT_ANOTHER = 'Введите другое число: '
+RIGHT_NUMBER = 'Это число - полный квадрат.'
+CORRECT = 'верно'
+NOT_CORRECT = 'неверно'
